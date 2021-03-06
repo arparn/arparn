@@ -14,7 +14,7 @@ I have an optimistic attitude and I am ready to acquire new skills and knowledge
 
 Contacts: 
 
-[![Linkedin Badge](https://img.shields.io/twitter/url?color=blue&label=LinkedIn&logo=LinkedIn&style=social&url=https%3A%2F%2Flinkedin.com%2Fin%2Farturalekss-a2785b205)](linkedin.com/in/arturalekss-a2785b205)
+[![Linkedin Badge](https://img.shields.io/twitter/url?color=blue&label=LinkedIn&logo=LinkedIn&style=social&url=https%3A%2F%2Flinkedin.com%2Fin%2Farturalekss-a2785b205)](https://www.linkedin.com/in/arturalekss-a2785b205)
 [![Facebook Badge](https://img.shields.io/twitter/url?color=blue&label=Facebook&logo=FaceBook&style=social&url=https%3A%2F%2Fhttps%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D100004815521028)](https://www.facebook.com/profile.php?id=100004815521028)
 
 email: arthurp200149@gmail.com
