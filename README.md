@@ -8,7 +8,7 @@ I have some experience in web development (front-end and back-end). 💻
 
 I know: Java ☕, Python 🐍, PHP 🐘, Spring 🍃, Angular 🅰, Node 🟩, JavaScript 🟨, TypeScript 🟦, HTML 🟧, CSS 🟦, Git 🟥. 
 
-I am hardworking, responsible I like doing sports and travelling. 💪🏻 ✈
+I am hardworking, responsible. I like doing sports and travelling. 💪🏻 ✈
 
 I have an optimistic attitude and I am ready to acquire new skills and knowledge. 🤓
 
