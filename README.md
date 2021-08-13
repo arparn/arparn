@@ -4,9 +4,9 @@ I am a second-year student of computer science at Tallinn University of Technolo
 
 I speak Russian, Estonian and English. 🌍
 
-I have some experience in web development (front-end and back-end). 💻
+I have experience in web development (front-end and back-end). 💻
 
-I know: Java ☕, Python 🐍, PHP 🐘, Spring 🍃, Angular 🅰, Node 🟩, JavaScript 🟨, TypeScript 🟦, HTML 🟧, CSS 🟦, Git 🟥. 
+I have experience in working with: Java ☕, Python 🐍, PHP 🐘, Spring 🍃, Angular 🅰, Node 🟩, JavaScript 🟨, TypeScript 🟦, HTML 🟧, CSS 🟦, Git 🟥. 
 
 I am a hardworking and responsible person. I like doing sports and travelling. 💪🏻 ✈
 
