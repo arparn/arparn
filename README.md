@@ -1,6 +1,6 @@
 ### Hey, I'am Artur-Aleksander Pärnoja! 🖐🏻 👨🏻‍💻
 
-I am a second-year student of computer science at Tallinn University of Technology. 🏛 👨🏻‍🎓 
+I am a third-year student of computer science at Tallinn University of Technology. 🏛 👨🏻‍🎓 
 
 I speak Russian, Estonian and English. 🌍
 
@@ -10,6 +10,8 @@ I have experience in working with: Java ☕, Python 🐍, PHP 🐘, Spring 🍃,
 Git 🟥. 
 
 I am a hardworking and responsible person. I like doing sports and travelling. 💪🏻 ✈
+
+My favourite book is 'Three Comrades' by Erich Maria Remarque. My favourite movie is 'Drive'. 📖 📽
 
 I have an optimistic attitude and I am ready to acquire new skills and knowledge. 🤓
 
